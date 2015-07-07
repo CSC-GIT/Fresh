@@ -1,0 +1,52 @@
+				IDS
+
+
+S.No.		Table			Column		Value
+
+1.		ACCTINFODDA		ACCTTYPE	DDA
+2.		ACCTINFOLOC		ACCTTYPE	LOC
+3.		ACCTINFOTDA		ACCTTYPE	RSV
+							REA
+							
+
+4.		BDT02_STRING_7301	PRODUCTCODE	RSV
+							REA
+							CDA
+							TOA
+							CSV
+							
+5.		BDT03_STRING_7218	PRODUCTCODE	DDA
+
+6.		BDT04_STRING_7318	PRODUCTCODE	CSV
+							RSV
+							
+7.		BDT07_STRING_7020	PRODUCTCODE	DDA
+							LOC
+							CDA
+							CSV
+							REA
+							RSV
+							TOA
+							
+
+8.		BDT12_STRING_7052	PRODUCTTYPE	DDA
+							LOC
+
+9.		DATASTRING		BRANCHNBR	1
+							2
+							12
+							3
+							7
+							8
+							45,678
+							4
+							5
+							6
+							9
+							10
+							0
+							11
+							
+10.		
+										
+							
